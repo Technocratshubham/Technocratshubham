@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shubham Kharat</h1>
-<h3 align="center">I am a Full Stack Java Developer from India.</h3>
+<h3 align="center">I am a Full Stack Java Developer.</h3>
 
 
 
