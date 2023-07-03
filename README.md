@@ -97,7 +97,7 @@
     <ul>
       <li>
         <a href="https://wealthifyme.netlify.app/">WealthifyMe</a>
-        <p>This is website which helps individuals to plan their wealth.</p>
+        <p>This website helps individuals to plan their wealth.</p>
       </li>
       </ul>
 </section>
