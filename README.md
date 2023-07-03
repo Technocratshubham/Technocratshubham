@@ -92,6 +92,18 @@
 
   <hr>
 
+<section class="container projects">
+    <h2 align="center">Projects</h2>
+    <ul>
+      <li>
+        <a href="https://wealthifyme.netlify.app/">WealthifyMe</a>
+        <p>This is website which helps individuals to plan their wealth.</p>
+      </li>
+      </ul>
+</section>
+
+  <hr>
+
   <section class="container connect">
     <h2 align="center">Let's Connect</h2>
     <p align="center">
